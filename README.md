@@ -84,5 +84,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ### Acknowledgments
 
 - [TensorFlow](https://www.tensorflow.org/)
-- [PyTorch](https://pytorch.org/)
 - Public image datasets like [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [ImageNet](http://www.image-net.org/).
